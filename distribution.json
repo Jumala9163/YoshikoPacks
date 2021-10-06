@@ -313,8 +313,8 @@
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7225119,
-            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
           },
           "subModules": []
@@ -459,8 +459,8 @@
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7225119,
-            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
           },
           "subModules": []
@@ -572,8 +572,8 @@
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7225119,
-            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
           },
           "subModules": []
