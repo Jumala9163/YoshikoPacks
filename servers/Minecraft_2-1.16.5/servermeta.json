@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///E:/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.1",
+    "name": "バニラ1.16.5 (Minecraft 1.16.5)",
+    "description": "Forge 1.16.5 + VideoPlayerMod + 便利なModが導入されている構成ギリ。",
+    "address": "",
+    "discord": {
+      "shortId": "Minecraft",
+      "largeImageText": "Minecraft",
+      "largeImageKey": "pack_yoshiko"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.1.0"
+  },
+  "untrackedFiles": []
+}
