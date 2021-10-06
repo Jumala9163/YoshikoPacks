@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///E:/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "0.9.0",
+    "name": "Minecraft Fabric 1.16.5",
+    "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ",
+    "address": "",
+    "discord": {
+      "shortId": "Minecraft",
+      "largeImageText": "Minecraft",
+      "largeImageKey": "pack_fabric"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.1.0"
+  },
+  "untrackedFiles": []
+}
