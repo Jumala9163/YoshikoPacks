@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///E:/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///E:/softdata/git/NumaPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "バニラ1.12.2 (Minecraft 1.12.2)",
