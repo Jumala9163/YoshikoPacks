@@ -24,7 +24,7 @@ jobs:
       - name: Checkout Nebula
         uses: actions/checkout@v2
         with:
-          repository: TeamKun/ModNebula
+          repository: Jumala9163/ModNebula
 
       - name: Checkout Packs
         uses: actions/checkout@v2
