@@ -1,14 +1,14 @@
 {
   "$schema": "file:///E:/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "0.9.0",
+    "version": "1.0.0",
     "name": "バニラ1.12.2 (Minecraft 1.12.2)",
-    "description": "Forge 1.12.2 + 便利なModが導入されている構成ギリ",
+    "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
     "address": "",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Minecraft",
-      "largeImageKey": "pack_12"
+      "largeImageKey": "pack_yoshiko"
     },
     "mainServer": false,
     "autoconnect": false
