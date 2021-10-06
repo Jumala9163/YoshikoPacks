@@ -1,0 +1,688 @@
+{
+  "version": "0.9.10",
+  "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
+  "discord": {
+    "clientId": "611515831108763659",
+    "smallImageText": "よしこランチャー",
+    "smallImageKey": "pack_yoshiko"
+  },
+  "servers": [
+    {
+      "id": "Minecraft-1.12.2",
+      "name": "バニラ1.12.2 (Minecraft 1.12.2)",
+      "description": "1.12.2+Modが導入された構成ギリ。",
+      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/pack.png",
+      "version": "1.0.0",
+      "address": "",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "バニラ1.12.2",
+        "largeImageText": "バニラ1.12.2",
+        "largeImageKey": "pack_12"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 4464068,
+            "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.12.2-14.23.5.2854",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 10873,
+                "MD5": "814f52398b6ebf70d22571307d2298eb",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
+              "name": "Minecraft Forge (asm-debug-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 387903,
+                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.5.1@jar",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 614590,
+                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "java3d:vecmath:1.5.2@jar",
+              "name": "Minecraft Forge (vecmath)",
+              "type": "Library",
+              "artifact": {
+                "size": 318956,
+                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+              }
+            },
+            {
+              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
+              "name": "Minecraft Forge (trove4j)",
+              "type": "Library",
+              "artifact": {
+                "size": 2523218,
+                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 54961,
+                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78175,
+                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Minecraft-1.15.2",
+      "name": "バニラ1.15.2 (Minecraft 1.15.2)",
+      "description": "1.15.2 + Modが導入された構成ギリ。",
+      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.15.2/pack.png",
+      "version": "1.0.0",
+      "address": "",
+      "minecraftVersion": "1.15.2",
+      "discord": {
+        "shortId": "バニラ1.15.2",
+        "largeImageText": "バニラ1.15.2",
+        "largeImageKey": "pack_15"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.15.2-31.2.9:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 6509304,
+            "MD5": "b10eaa5a305ce6af6d08bf74a1fcbbe0",
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.15.2-31.2.9/forge-1.15.2-31.2.9-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "technicianlp.reauth:reauth:3.8.1@jar",
+          "name": "ReAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35214,
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/ReAuth-1.14-1.15-3.8.1.jar",
+            "MD5": "7a2655c439bb612f744afbe1bb3e56f7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.kunmc.lab:vplayer:1.1-SNAPSHOT@jar",
+          "name": "VideoPlayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37609339,
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/vplayer-1.1-SNAPSHOT-all.jar",
+            "MD5": "5de63bef9b389fa04882fa00e92d54da"
+          },
+          "required": {
+            "value": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "4-Minecraft-1.16.5",
+      "name": "バニラ1.16.5 (Minecraft 1.16.5)",
+      "description": "Forge 1.16.5 + VideoPlayerMod + 便利なModが導入されている構成ギリ",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/pack.png",
+      "version": "0.9.0",
+      "address": "",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "バニラ1.16.5",
+        "largeImageText": "バニラ1.16.5",
+        "largeImageKey": "pack_16"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 7225119,
+            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "com.sintinium.oauth:oauth-1.06.1-1.16@jar",
+          "name": "OAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51399,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/1-Yoshiko-chan-100k-Subs-Network/forgemods/optionalon/oauth-1.06.1-1.16.jar",
+            "MD5": "07A30E616C9F2ABFF94E1212645F3565"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.kunmc.lab:vplayer:1.2-1.16.5-SNAPSHOT@jar",
+          "name": "VideoPlayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37610980,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
+            "MD5": "c606ac343b1893d8d30e686f96e4d7f7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "forgemod_VoxelMap-1.10.12_for_1.16.5@jar",
+          "name": "VoxelMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 827220,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/forgemod_VoxelMap-1.10.12_for_1.16.5.jar",
+            "MD5": "1B507D537838539A040E87E00ACF92FF"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:OptiFine_1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "E0717BA6D1674AF83036EBC479FC77B4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "worldeditcui-fe3-1.16.5-3.0.9@jar",
+          "name": "WorldEdit-CUI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 869842,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
+            "MD5": "5E1CF122014961085243D00507EC360D"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "worldedit-cui-fe3-1.16.5-3.0.9@jar",
+          "name": "WorldEdit-CUI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 869842,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
+            "MD5": "5E1CF122014961085243D00507EC360D"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.shedaniel.rei.plugin:RoughlyEnoughItems-6.0.282-alpha-forge@jar",
+          "name": "RoughlyEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1435006,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/RoughlyEnoughItems-6.0.282-alpha-forge.jar",
+            "MD5": "3E8C6A9AA6B8916D67A02B9762F2E8CE"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei-1.16.5-7.7.1.122@jar",
+          "name": "JustEnoughItems,",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 814235,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.122.jar",
+            "MD5": "2CB4DB18B135498A7EEE6C1B17926D1E"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.torocraft.torohealth:torohealth-1.16.4-forge-4@jar",
+          "name": "ToroHealth Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96418,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/torohealth-1.16.4-forge-4.jar",
+            "MD5": "D2235DC66683C56B99929D7ED0992A52"
+          },
+          "required": {
+            "value": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "5-Minecraft-Fabric-1.16.5",
+      "name": "Minecraft Fabric 1.16.5",
+      "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/5-Minecraft-Fabric-1.16.5/pack.png",
+      "version": "0.9.0",
+      "address": "",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "Fabric-1.16.5",
+        "largeImageText": "Fabric-1.16.5",
+        "largeImageKey": "pack_fabric"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 7225119,
+            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "com.sintinium.oauth.oauthfabric:oauth-fabric-1.0-1.16.5@jar",
+          "name": "OAuth",
+          "type": "File",
+          "artifact": {
+            "size": 51735,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/1-Yoshiko-chan-100k-Subs-Network/files/mods/oauth-fabric-1.0-1.16.5.jar",
+            "MD5": "6AB35F84D2A32CD90E0EDFD1A1C1BE84",
+            "path": "mods/oauth-fabric-1.0-1.16.5.jar"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fabric-api-0.40.1+1.16.jar",
+          "name": "fabric-api-0.40.1+1.16.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1081932,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/5-Minecraft-Fabric-1.16.5/files/mods/fabric-api-0.40.1+1.16.jar",
+            "MD5": "7a3dbf956504701a0d1f0fb1b94f4808",
+            "path": "mods/fabric-api-0.40.1+1.16.jar"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "jumploader-2.1.3.jar",
+          "name": "jumploader-2.1.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 193754,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers5-Minecraft-Fabric-1.16.5/files/mods/jumploader-2.1.3.jar",
+            "MD5": "e5b0443cdf409b8cba7f0a20b006911b",
+            "path": "mods/jumploader-2.1.3.jar"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "net.torocraft.torohealth:torohealth-1.16.5-fabric-6@jar",
+          "name": "ToroHealth Damage Indicators",
+          "type": "File",
+          "artifact": {
+            "size": 109932,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers5-Minecraft-Fabric-1.16.5/files/mods/torohealth-1.16.5-fabric-6.jar",
+            "MD5": "2C24E73DF2B800D941D09927D9C8386B",
+            "path": "mods/torohealth-1.16.5-fabric-6.jar"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "com.mumfrey.worldeditcui:worldeditcui-1.16.5+02@jar",
+          "name": "WorldEdit-CUI",
+          "type": "File",
+          "artifact": {
+            "size": 127863,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers5-Minecraft-Fabric-1.16.5/files/mods/WorldEditCUI-1.16.5+02.jar",
+            "MD5": "5E4F94A2A6E914BBADF95D4337355559",
+            "path": "mods/WorldEditCUI-1.16.5+02.jar"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "me.shedaniel.rei.plugin:RoughlyEnoughItems-5.12.248@jar",
+          "name": "RoughlyEnoughItems",
+          "type": "File",
+          "artifact": {
+            "size": 1137584,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers5-Minecraft-Fabric-1.16.5/files/mods/RoughlyEnoughItems-5.12.248.jar",
+            "MD5": "CBF82CCB8F71192A4D524A2178EF39B1",
+            "path": "mods/RoughlyEnoughItems-5.12.248.jar"
+          },
+          "required": {
+            "value": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "1-Yoshiko-chan-100k-Subs-Network",
+      "name": "Yoshiko-chan-100k-Subs-Network",
+      "description": "Yoshiko-chan-100k-Subs-Network用にチューニングされた構成ギリ。※RPG-16で使用すること想定しているギリ。",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/1-Yoshiko-chan-100k-Subs-Network",
+      "version": "0.0.1",
+      "address": "play.yoshiko-chan.fun",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "RPG",
+        "largeImageText": "RPG",
+        "largeImageKey": "pack_rpg"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 7225119,
+            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "com.sintinium.oauth:oauth-1.06.1-1.16@jar",
+          "name": "OAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51399,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/1-Yoshiko-chan-100k-Subs-Network/forgemods/optionalon/oauth-1.06.1-1.16.jar",
+            "MD5": "07A30E616C9F2ABFF94E1212645F3565"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.kunmc.lab:vplayer:1.2-1.16.5-SNAPSHOT@jar",
+          "name": "VideoPlayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37610980,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
+            "MD5": "c606ac343b1893d8d30e686f96e4d7f7"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "forgemod_voxelmap-1.10.12_for_1.16.5@jar",
+          "name": "VoxelMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 827220,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/forgemod_VoxelMap-1.10.12_for_1.16.5.jar",
+            "MD5": "1B507D537838539A040E87E00ACF92FF"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:OptiFine_1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "E0717BA6D1674AF83036EBC479FC77B4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "worldedit-cui-fe3-1.16.5-3.0.9@jar",
+          "name": "WorldEdit-CUI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 869842,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
+            "MD5": "5E1CF122014961085243D00507EC360D"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.shedaniel.rei.plugin:RoughlyEnoughItems-6.0.282-alpha-forge@jar",
+          "name": "RoughlyEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1435006,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/RoughlyEnoughItems-6.0.282-alpha-forge.jar",
+            "MD5": "3E8C6A9AA6B8916D67A02B9762F2E8CE"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei-1.16.5-7.7.1.122@jar",
+          "name": "JustEnoughItems,",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 814235,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.122.jar",
+            "MD5": "D2235DC66683C56B99929D7ED0992A52"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.torocraft.torohealth:torohealth-1.16.4-forge-4@jar",
+          "name": "ToroHealth Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96418,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/4-Minecraft-1.16.5/forgemods/optionalon/torohealth-1.16.4-forge-4.jar",
+            "MD5": "D2235DC66683C56B99929D7ED0992A52"
+          },
+          "required": {
+            "value": false
+          }
+        }
+      ]
+    }
+  ]
+}
