@@ -295,9 +295,9 @@
     {
       "id": "Minecraft-1.16.5",
       "name": "バニラ1.16.5 (Minecraft 1.16.5)",
-      "description": "Forge 1.16.5 + VideoPlayerMod + 便利なModが導入されている構成ギリ",
-      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/pack.png",
-      "version": "0.9.0",
+      "description": "1.16.5 + 便利なModが導入されたおすすめのパックです。",
+      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/pack.png",
+      "version": "1.0.1",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -315,22 +315,9 @@
           "artifact": {
             "size": 7225119,
             "MD5": "ace24a5bfc910af72de81a51dbbf7897",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
           },
           "subModules": []
-        },
-        {
-          "id": "com.sintinium.oauth:oauth-1.06.1-1.16@jar",
-          "name": "OAuth",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 51399,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Yoshiko-chan-100k-Subs-Network/forgemods/optionalon/oauth-1.06.1-1.16.jar",
-            "MD5": "07A30E616C9F2ABFF94E1212645F3565"
-          },
-          "required": {
-            "value": false
-          }
         },
         {
           "id": "net.kunmc.lab:vplayer:1.2-1.16.5-SNAPSHOT@jar",
@@ -338,99 +325,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37610980,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
+            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
             "MD5": "c606ac343b1893d8d30e686f96e4d7f7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "forgemod_VoxelMap-1.10.12_for_1.16.5@jar",
-          "name": "VoxelMap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 827220,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/forgemod_VoxelMap-1.10.12_for_1.16.5.jar",
-            "MD5": "1B507D537838539A040E87E00ACF92FF"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.optifine:OptiFine_1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "E0717BA6D1674AF83036EBC479FC77B4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "worldeditcui-fe3-1.16.5-3.0.9@jar",
-          "name": "WorldEdit-CUI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 869842,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
-            "MD5": "5E1CF122014961085243D00507EC360D"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "worldedit-cui-fe3-1.16.5-3.0.9@jar",
-          "name": "WorldEdit-CUI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 869842,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
-            "MD5": "5E1CF122014961085243D00507EC360D"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.shedaniel.rei.plugin:RoughlyEnoughItems-6.0.282-alpha-forge@jar",
-          "name": "RoughlyEnoughItems",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1435006,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/RoughlyEnoughItems-6.0.282-alpha-forge.jar",
-            "MD5": "3E8C6A9AA6B8916D67A02B9762F2E8CE"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "mezz.jei:jei-1.16.5-7.7.1.122@jar",
-          "name": "JustEnoughItems,",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 814235,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.122.jar",
-            "MD5": "2CB4DB18B135498A7EEE6C1B17926D1E"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.torocraft.torohealth:torohealth-1.16.4-forge-4@jar",
-          "name": "ToroHealth Damage Indicators",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 96418,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/torohealth-1.16.4-forge-4.jar",
-            "MD5": "D2235DC66683C56B99929D7ED0992A52"
           },
           "required": {
             "value": false
