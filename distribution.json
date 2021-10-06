@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/TeamKun/NumaPacks/news/news.rss",
+  "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "784714976329596938",
     "smallImageText": "沼ランチャー",
@@ -11,7 +11,7 @@
       "id": "Minecraft-1.12.2",
       "name": "バニラ1.12.2 (Minecraft 1.12.2)",
       "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/pack.png",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.12.2/pack.png",
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.12.2",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4464068,
             "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 10873,
                 "MD5": "814f52398b6ebf70d22571307d2298eb",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             }
           ]
@@ -241,7 +241,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5520,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/forgemods/optionaloff/aspectguide-1.12.2-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.12.2/forgemods/optionaloff/aspectguide-1.12.2-1.0-SNAPSHOT.jar",
             "MD5": "81ddc3da02e4feaa30b22d60d55696ff"
           },
           "required": {
@@ -255,7 +255,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30446,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/forgemods/optionalon/reauth-3.6.0.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.12.2/forgemods/optionalon/reauth-3.6.0.jar",
             "MD5": "6024686e40df10b8739042ea2dce7f1a"
           },
           "required": {
@@ -268,7 +268,7 @@
       "id": "Minecraft-1.15.2",
       "name": "バニラ1.15.2 (Minecraft 1.15.2)",
       "description": "1.15.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.15.2/pack.png",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.15.2/pack.png",
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.15.2",
@@ -287,7 +287,7 @@
           "artifact": {
             "size": 6509304,
             "MD5": "b10eaa5a305ce6af6d08bf74a1fcbbe0",
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.15.2-31.2.9/forge-1.15.2-31.2.9-installer.jar"
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.15.2-31.2.9/forge-1.15.2-31.2.9-installer.jar"
           },
           "subModules": []
         },
@@ -297,7 +297,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35214,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/ReAuth-1.14-1.15-3.8.1.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/ReAuth-1.14-1.15-3.8.1.jar",
             "MD5": "7a2655c439bb612f744afbe1bb3e56f7"
           },
           "required": {
@@ -310,7 +310,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37609339,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/vplayer-1.1-SNAPSHOT-all.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/vplayer-1.1-SNAPSHOT-all.jar",
             "MD5": "5de63bef9b389fa04882fa00e92d54da"
           },
           "required": {
@@ -323,7 +323,7 @@
       "id": "Minecraft-1.16.5",
       "name": "バニラ1.16.5 (Minecraft 1.16.5)",
       "description": "1.16.5 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/pack.png",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/pack.png",
       "version": "1.0.1",
       "address": "",
       "minecraftVersion": "1.16.5",
@@ -342,7 +342,7 @@
           "artifact": {
             "size": 7225119,
             "MD5": "ace24a5bfc910af72de81a51dbbf7897",
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
           },
           "subModules": []
         },
@@ -352,7 +352,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7502,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionaloff/aspectguide-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionaloff/aspectguide-1.0-SNAPSHOT.jar",
             "MD5": "ba3585b7b419920f9271f1feead5b748"
           },
           "required": {
@@ -366,7 +366,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13802416,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/CustomGUI-mod-2.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/CustomGUI-mod-2.0.4.jar",
             "MD5": "1bf94c049deda95f0be77358663fb695"
           },
           "required": {
@@ -379,7 +379,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38126,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/ReAuth-1.16-Forge-3.9.3.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/ReAuth-1.16-Forge-3.9.3.jar",
             "MD5": "3b3095744e922d89ab6443529865df43"
           },
           "required": {
@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37610980,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
             "MD5": "c606ac343b1893d8d30e686f96e4d7f7"
           },
           "required": {
@@ -405,7 +405,7 @@
       "id": "Pack9-1.16.5",
       "name": "ポータルクラフト (Minecraft Fabric 1.16.5)",
       "description": "ポータルMod",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack9-1.16.5/pack.png",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Pack9-1.16.5/pack.png",
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.16.5",
@@ -424,7 +424,7 @@
           "artifact": {
             "size": 7225119,
             "MD5": "ace24a5bfc910af72de81a51dbbf7897",
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
           },
           "subModules": []
         },
@@ -434,7 +434,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38126,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack9-1.16.5/forgemods/optionalon/ReAuth-1.16-Forge-3.9.3.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Pack9-1.16.5/forgemods/optionalon/ReAuth-1.16-Forge-3.9.3.jar",
             "MD5": "3b3095744e922d89ab6443529865df43"
           },
           "required": {
@@ -447,7 +447,7 @@
           "type": "File",
           "artifact": {
             "size": 225364,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack9-1.16.5/files/mods/Pehkui-2.0.0+21w14a.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Pack9-1.16.5/files/mods/Pehkui-2.0.0+21w14a.jar",
             "MD5": "456b4596252593fea53ce517f9b758fe",
             "path": "mods/Pehkui-2.0.0+21w14a.jar"
           }
@@ -458,7 +458,7 @@
           "type": "File",
           "artifact": {
             "size": 938503,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack9-1.16.5/files/mods/fabric-api-0.33.1+1.16.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Pack9-1.16.5/files/mods/fabric-api-0.33.1+1.16.jar",
             "MD5": "813d9f92bb01793b129c70b16f6a5104",
             "path": "mods/fabric-api-0.33.1+1.16.jar"
           }
@@ -469,7 +469,7 @@
           "type": "File",
           "artifact": {
             "size": 6099337,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack9-1.16.5/files/mods/immersive-portals-0.90-mc1.16.5-fabric.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Pack9-1.16.5/files/mods/immersive-portals-0.90-mc1.16.5-fabric.jar",
             "MD5": "66c8507152bf3294cd1a70c04366768d",
             "path": "mods/immersive-portals-0.90-mc1.16.5-fabric.jar"
           }
@@ -480,7 +480,7 @@
           "type": "File",
           "artifact": {
             "size": 193754,
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack9-1.16.5/files/mods/jumploader-2.1.3.jar",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Pack9-1.16.5/files/mods/jumploader-2.1.3.jar",
             "MD5": "e5b0443cdf409b8cba7f0a20b006911b",
             "path": "mods/jumploader-2.1.3.jar"
           }
