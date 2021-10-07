@@ -1,17 +1,17 @@
 {
   "$schema": "file:///E:/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "name": "Yoshiko-chan-100k-Subs-Network",
     "description": "Yoshiko-chan-100k-Subs-Network用にチューニングされた構成ギリ。",
-    "address": "play.yoshiko-chan.fun",
+    "address": "",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Minecraft",
       "largeImageKey": "pack_yoshiko"
     },
-    "mainServer": true,
-    "autoconnect": true
+    "mainServer": false,
+    "autoconnect": false
   },
   "forge": {
     "version": "36.1.0"
