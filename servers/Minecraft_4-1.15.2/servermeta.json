@@ -6,8 +6,8 @@
     "description": "1.15.2 + Modが導入された構成ギリ。",
     "address": "",
     "discord": {
-      "shortId": "Minecraft",
-      "largeImageText": "Minecraft",
+      "shortId": "Minecraft1.15.2",
+      "largeImageText": "Minecraft1.15.2",
       "largeImageKey": "pack_15"
     },
     "mainServer": false,

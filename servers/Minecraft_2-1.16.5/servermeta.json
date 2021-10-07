@@ -6,8 +6,8 @@
     "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
     "address": "",
     "discord": {
-      "shortId": "Minecraft",
-      "largeImageText": "Minecraft",
+      "shortId": "Minecraft1.16.5",
+      "largeImageText": "Minecraft1.16.5",
       "largeImageKey": "pack_16"
     },
     "mainServer": false,

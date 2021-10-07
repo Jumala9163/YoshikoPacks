@@ -6,8 +6,8 @@
     "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ。",
     "address": "",
     "discord": {
-      "shortId": "Minecraft",
-      "largeImageText": "Minecraft",
+      "shortId": "Fabric1.16.5",
+      "largeImageText": "Fabric1.16.5",
       "largeImageKey": "pack_fabric"
     },
     "mainServer": false,

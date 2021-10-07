@@ -1,5 +1,5 @@
 {
-  "version": "0.9.40",
+  "version": "0.9.42",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -422,8 +422,8 @@
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "ポータルクラフト",
-        "largeImageText": "ポータルクラフト",
+        "shortId": "Fabric1.16.5",
+        "largeImageText": "Fabric1.16.5",
         "largeImageKey": "pack_fabric"
       },
       "mainServer": false,
