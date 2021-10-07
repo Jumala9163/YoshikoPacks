@@ -6,7 +6,7 @@
     "description": "1.12.2 + Modが導入された構成ギリ。",
     "address": "",
     "discord": {
-      "shortId": "Minecraft1.12.2",
+      "shortId": "Minecraft",
       "largeImageText": "Minecraft1.12.2",
       "largeImageKey": "pack_12"
     },
