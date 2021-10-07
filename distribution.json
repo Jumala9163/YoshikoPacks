@@ -1,5 +1,5 @@
 {
-  "version": "0.9.43",
+  "version": "0.9.44",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -540,7 +540,7 @@
         "largeImageKey": "pack_rpg"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.0:installer",
