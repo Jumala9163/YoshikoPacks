@@ -1,7 +1,7 @@
 {
   "$schema": "file:///${ROOT}/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "name": "バニラ1.16.5 (Minecraft 1.16.5)",
     "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
     "address": "",
