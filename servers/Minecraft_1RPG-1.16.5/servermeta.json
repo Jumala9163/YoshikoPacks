@@ -3,12 +3,12 @@
   "meta": {
     "version": "1.0.0",
     "name": "Yoshiko-chan-100k-Subs-Network",
-    "description": "Yoshiko-chan-100k-Subs-Network用にチューニングされた構成ギリ。",
+    "description": "Yoshiko-chan-100k-Subs-Network用の構成ギリ。",
     "address": "play.yoshiko-chan.fun",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Minecraft",
-      "largeImageKey": "pack_yoshiko"
+      "largeImageKey": "pack_rpg"
     },
     "mainServer": true,
     "autoconnect": true
