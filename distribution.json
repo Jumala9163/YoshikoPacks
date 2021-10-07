@@ -565,8 +565,8 @@
         "largeImageText": "Yoshiko-chan-100k-Subs-Network",
         "largeImageKey": "pack_rpg"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
