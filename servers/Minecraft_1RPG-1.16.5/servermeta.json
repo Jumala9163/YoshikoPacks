@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///E:/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///${ROOT}/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Yoshiko-chan-100k-Subs-Network",

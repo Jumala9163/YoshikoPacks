@@ -1,10 +1,10 @@
 {
   "meta": {
-    "rss": "https://raw.githubusercontent.com/TeamKun/ModPacks/news/news.rss",
+    "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
     "discord": {
-      "clientId": "784714976329596938",
-      "smallImageText": "Modランチャー",
-      "smallImageKey": "pack_mod"
+      "clientId": "892636912781758485",
+      "smallImageText": "よしこランチャー",
+      "smallImageKey": "pack_yoshiko"
     }
   }
 }

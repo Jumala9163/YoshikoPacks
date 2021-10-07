@@ -1,8 +1,8 @@
 {
-  "version": "0.9.38",
+  "version": "0.9.39",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
-    "clientId": "611515831108763659",
+    "clientId": "892636912781758485",
     "smallImageText": "よしこランチャー",
     "smallImageKey": "pack_yoshiko"
   },
