@@ -557,8 +557,8 @@
       "name": "Yoshiko-chan-100k-Subs-Network (Minecraft1.16.5)",
       "description": "Yoshiko-chan-100k-Subs-Network用にチューニングされた構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/pack.png",
-      "version": "1.0.1",
-      "address": "play.yoshiko-chan.fun",
+      "version": "1.0.0",
+      "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Yoshiko-chan-100k-Subs-Network",
