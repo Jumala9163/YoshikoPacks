@@ -4,17 +4,17 @@
     "version": "1.0.0",
     "name": "Yoshiko-chan-100k-Subs-Network",
     "description": "Yoshiko-chan-100k-Subs-Network用にチューニングされた構成ギリ。",
-    "address": "",
+    "address": "play.yoshiko-chan.fun",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Minecraft",
       "largeImageKey": "pack_yoshiko"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "forge": {
-    "version": "36.1.0"
+    "version": "36.2.0"
   },
   "untrackedFiles": []
 }

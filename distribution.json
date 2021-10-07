@@ -1,5 +1,5 @@
 {
-  "version": "0.9.37",
+  "version": "0.9.38",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "611515831108763659",
@@ -322,9 +322,9 @@
     {
       "id": "Minecraft_2-1.16.5",
       "name": "バニラ1.16.5 (Minecraft 1.16.5)",
-      "description": "Forge 1.16.5 + VideoPlayerMod + 便利なModが導入されている構成ギリ",
+      "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/pack.png",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -336,13 +336,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.0:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7225119,
-            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
           },
           "subModules": []
         },
@@ -360,19 +360,6 @@
           }
         },
         {
-          "id": "net.optifine:OptiFine_1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "E0717BA6D1674AF83036EBC479FC77B4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "worldeditcui-fe3-1.16.5-3.0.9@jar",
           "name": "WorldEdit-CUI",
           "type": "ForgeMod",
@@ -380,19 +367,6 @@
             "size": 869842,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
             "MD5": "5E1CF122014961085243D00507EC360D"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.shedaniel.rei.plugin:RoughlyEnoughItems-6.0.282-alpha-forge@jar",
-          "name": "RoughlyEnoughItems",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1435006,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/forgemods/optionalon/RoughlyEnoughItems-6.0.282-alpha-forge.jar",
-            "MD5": "3E8C6A9AA6B8916D67A02B9762F2E8CE"
           },
           "required": {
             "value": false
@@ -456,13 +430,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.0:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7225119,
-            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
           },
           "subModules": []
         },
@@ -555,27 +529,27 @@
     {
       "id": "Minecraft_1RPG-1.16.5",
       "name": "Yoshiko-chan-100k-Subs-Network (Minecraft1.16.5)",
-      "description": "Yoshiko-chan-100k-Subs-Network用にチューニングされた構成ギリ。",
+      "description": "Yoshiko-chan-100k-Subs-Network用の構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/pack.png",
       "version": "1.0.0",
-      "address": "",
+      "address": "play.yoshiko-chan.fun",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Yoshiko-chan-100k-Subs-Network",
         "largeImageText": "Yoshiko-chan-100k-Subs-Network",
         "largeImageKey": "pack_rpg"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.1.0:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.0:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7225119,
-            "MD5": "ace24a5bfc910af72de81a51dbbf7897",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar"
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
           },
           "subModules": []
         },
@@ -593,19 +567,6 @@
           }
         },
         {
-          "id": "net.optifine:OptiFine_1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "E0717BA6D1674AF83036EBC479FC77B4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "worldeditcui-fe3-1.16.5-3.0.9@jar",
           "name": "WorldEdit-CUI",
           "type": "ForgeMod",
@@ -613,19 +574,6 @@
             "size": 869842,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/forgemods/optionalon/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar",
             "MD5": "5E1CF122014961085243D00507EC360D"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.shedaniel.rei.plugin:RoughlyEnoughItems-6.0.282-alpha-forge@jar",
-          "name": "RoughlyEnoughItems",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1435006,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/forgemods/optionalon/RoughlyEnoughItems-6.0.282-alpha-forge.jar",
-            "MD5": "3E8C6A9AA6B8916D67A02B9762F2E8CE"
           },
           "required": {
             "value": false
