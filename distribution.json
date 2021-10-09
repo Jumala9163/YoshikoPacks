@@ -418,7 +418,7 @@
       "name": "Minecraft Fabric 1.16.5",
       "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_3Fabric-1.16.5/pack.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
