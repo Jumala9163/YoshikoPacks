@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -324,7 +324,7 @@
       "name": "バニラ1.16.5 (Minecraft 1.16.5)",
       "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/pack.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -399,13 +399,13 @@
           }
         },
         {
-          "id": "net.kunmc.lab:vplayer:1.2-1.16.5-SNAPSHOT@jar",
+          "id": "net.kunmc.lab:vplayer-1.3-1.16.5-SNAPSHOT-all@jar",
           "name": "VideoPlayer",
           "type": "ForgeMod",
           "artifact": {
-            "size": 37610980,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
-            "MD5": "c606ac343b1893d8d30e686f96e4d7f7"
+            "size": 41076250,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/forgemods/optionalon/vplayer-1.3-1.16.5-SNAPSHOT-all.jar",
+            "MD5": "DE71DAFB8CA3422BA13CBD167EAEB761"
           },
           "required": {
             "value": false
@@ -531,7 +531,7 @@
       "name": "Yoshiko-chan-100k-Subs-Network (Minecraft1.16.5)",
       "description": "Yoshiko-chan-100k-Subs-Network用の構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/pack.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "play.yoshiko-chan.fun",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -606,16 +606,16 @@
           }
         },
         {
-          "id": "net.kunmc.lab:vplayer:1.2-1.16.5-SNAPSHOT@jar",
+          "id": "net.kunmc.lab:vplayer-1.3-1.16.5-SNAPSHOT-all@jar",
           "name": "VideoPlayer",
           "type": "ForgeMod",
           "artifact": {
-            "size": 37610980,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/forgemods/optionalon/vplayer-1.2-1.16.5-SNAPSHOT-all.jar",
-            "MD5": "c606ac343b1893d8d30e686f96e4d7f7"
+            "size": 41076250,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/forgemods/optionalon/vplayer-1.3-1.16.5-SNAPSHOT-all.jar",
+            "MD5": "DE71DAFB8CA3422BA13CBD167EAEB761"
           },
           "required": {
-            "value": true
+            "value": false
           }
         }
       ]
