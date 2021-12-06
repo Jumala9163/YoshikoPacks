@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -736,19 +736,6 @@
             "size": 2459188,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/CraftTweaker-1.16.5-7.1.2.471.jar",
             "MD5": "3D6DBC89A11634FDA8FC9BCD5AE2F8C6"
-          },
-          "required": {
-            "value": true
-          }
-        },
-        {
-          "id": "mcp.mobius.waila:Hwyla-forge-1.10.6-B67_1.14.4@jar",
-          "name": "Hwyla",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 172735,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/Hwyla-forge-1.10.6-B67_1.14.4.jar",
-            "MD5": "D3880C8ECD37EA3F0C5983511C230C25"
           },
           "required": {
             "value": true
@@ -827,6 +814,19 @@
             "size": 327081,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/theoneprobe-1.16-3.1.4.jar",
             "MD5": "c606d2dee3f61a20ad0bcbb9d8bb4ca1"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "mcp.mobius.waila:Waila-1.7.1_1.11.2@jar",
+          "name": "Waila",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 542744,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/Waila-1.7.1_1.11.2.jar",
+            "MD5": "26258A3557BF333E8F4CE8B1E9481031"
           },
           "required": {
             "value": true
