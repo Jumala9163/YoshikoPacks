@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -879,19 +879,6 @@
             "size": 814235,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.122.jar",
             "MD5": "04504a1efab9e4640567b6e7c0e73f38"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "slimeknights.tconstruct:TConstruct-1.16.5-3.2.1.296@jar",
-          "name": "Tinkers Construct",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12123466,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/TConstruct-1.16.5-3.2.1.296.jar",
-            "MD5": "a1702ecfd7faea87051fc1302d54851b"
           },
           "required": {
             "value": false
