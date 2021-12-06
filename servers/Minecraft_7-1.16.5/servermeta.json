@@ -1,7 +1,7 @@
 {
   "$schema": "file:///${ROOT}/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "name": "ドラゴンクラフト(Minecraft 1.16.5)",
     "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
     "address": "",
@@ -14,7 +14,7 @@
     "autoconnect": false
   },
   "forge": {
-    "version": "36.2.0"
+    "version": "36.2.19"
   },
   "untrackedFiles": []
 }

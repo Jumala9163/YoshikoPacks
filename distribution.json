@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -718,24 +718,37 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.0:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.19:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7350530,
-            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
+            "size": 7385471,
+            "MD5": "9DEC572C3C41F8E792BDD3C757F625D4",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.19/forge-1.16.5-36.2.19-installer.jar"
           },
           "subModules": []
         },
         {
-          "id": "com.sintinium.oauth:oauth-1.1.4-1.16@jar",
-          "name": "OAuth",
+          "id": "com.blamejared.crafttweaker:CraftTweaker-1.16.5-7.1.2.471@jar",
+          "name": "CraftTweaker",
           "type": "ForgeMod",
           "artifact": {
-            "size": 87805,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/oauth-1.1.4-1.16.jar",
-            "MD5": "fd99bc57fe4509888a2f6dffc31169db"
+            "size": 2459188,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/CraftTweaker-1.16.5-7.1.2.471.jar",
+            "MD5": "3D6DBC89A11634FDA8FC9BCD5AE2F8C6"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "mcp.mobius.waila:Hwyla-forge-1.10.6-B67_1.14.4@jar",
+          "name": "Hwyla",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 172735,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/Hwyla-forge-1.10.6-B67_1.14.4.jar",
+            "MD5": "D3880C8ECD37EA3F0C5983511C230C25"
           },
           "required": {
             "value": true
@@ -775,6 +788,32 @@
             "size": 24981,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/jeiintegration_1.16.5-7.0.1.15.jar",
             "MD5": "04504a1efab9e4640567b6e7c0e73f38"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "slimeknights.mantle:Mantle-1.16.5-1.6.147@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7777421,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/Mantle-1.16.5-1.6.147.jar",
+            "MD5": "972D78B9510B9EE77D86811E4B4AF876"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "com.sintinium.oauth:oauth-1.1.4-1.16@jar",
+          "name": "OAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 87805,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/oauth-1.1.4-1.16.jar",
+            "MD5": "fd99bc57fe4509888a2f6dffc31169db"
           },
           "required": {
             "value": true
@@ -872,7 +911,7 @@
           }
         },
         {
-          "id": "mezz.jei.JustEnoughItems:jei-1.16.5-7.7.1.122@jar",
+          "id": "mezz.jei:jei-1.16.5-7.7.1.122@jar",
           "name": "Just Enough Items (JEI)",
           "type": "ForgeMod",
           "artifact": {
@@ -885,20 +924,7 @@
           }
         },
         {
-          "id": "org.jmt.mcmt.MCMT:jmt_mcmt-1.16.5-0.22.87@jar",
-          "name": "MCMT",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 178052,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87.jar",
-            "MD5": "7b714f318df4c0935bb0c42909e5338b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "slimeknights.tconstruct.TConstruct:TConstruct-1.16.5-3.2.1.296@jar",
+          "id": "slimeknights.tconstruct:TConstruct-1.16.5-3.2.1.296@jar",
           "name": "Tinkers Construct",
           "type": "ForgeMod",
           "artifact": {
