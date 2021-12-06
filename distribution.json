@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -814,32 +814,6 @@
             "size": 327081,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/theoneprobe-1.16-3.1.4.jar",
             "MD5": "c606d2dee3f61a20ad0bcbb9d8bb4ca1"
-          },
-          "required": {
-            "value": true
-          }
-        },
-        {
-          "id": "mcp.mobius.waila:Waila-1.7.1_1.11.2@jar",
-          "name": "Waila",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 542744,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/Waila-1.7.1_1.11.2.jar",
-            "MD5": "26258A3557BF333E8F4CE8B1E9481031"
-          },
-          "required": {
-            "value": true
-          }
-        },
-        {
-          "id": "squeek.wailaharvestability:WailaHarvestability-mc1.16.x-forge-1.1.15@jar",
-          "name": "Waila Harvestability",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29421,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/WailaHarvestability-mc1.16.x-forge-1.1.15.jar",
-            "MD5": "5dd65df652593d1e528205f52cdc2775"
           },
           "required": {
             "value": true
