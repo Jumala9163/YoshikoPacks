@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "id": "Minecraft_6-Tanpa1",
+      "id": "Minecraft_6-1.16.5",
       "name": "ガリバーMod(Minecraft 1.16.5)",
       "description": "ガリバーModで遊べる構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_6-1.16.5/pack.png",
@@ -694,6 +694,243 @@
             "size": 96418,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_6-1.16.5/forgemods/optionalon/torohealth-1.16.4-forge-4.jar",
             "MD5": "D2235DC66683C56B99929D7ED0992A52"
+          },
+          "required": {
+            "value": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "Minecraft_7-1.16.5",
+      "name": "ドラゴンクラフト(Minecraft 1.16.5)",
+      "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
+      "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
+      "version": "1.0.0",
+      "address": "",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "dora_kura",
+        "largeImageText": "dragon_craft",
+        "largeImageKey": "pack_dragon"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.16.5-36.2.0:installer",
+          "name": "Minecraft Forge (installer)",
+          "type": "Forge",
+          "artifact": {
+            "size": 7350530,
+            "MD5": "CCF5E7D6958F017A49651D5D6FAEC024",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.0-installer.jar"
+          },
+          "subModules": []
+        },
+        {
+          "id": "com.sintinium.oauth:oauth-1.1.4-1.16@jar",
+          "name": "OAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 87805,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/oauth-1.1.4-1.16.jar",
+            "MD5": "fd99bc57fe4509888a2f6dffc31169db"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "com.github.alexthe666.iceandfire:iceandfire-2.1.9-1.16.5@jar",
+          "name": "Ice and Fire: Dragons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21314646,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/iceandfire-2.1.9-1.16.5.jar",
+            "MD5": "abdaef27eb07a61fef4e28113ed774a2"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "mezz.jei:jei-1.16.5-7.7.1.137@jar",
+          "name": "JustEnoughItems,",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 826748,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/jei-1.16.5-7.7.1.137.jar",
+            "MD5": "04504a1efab9e4640567b6e7c0e73f38"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "com.snowshock35.jeiintegration:jeiintegration_1.16.5-7.0.1.15@jar",
+          "name": "JEI Integration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24981,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/jeiintegration_1.16.5-7.0.1.15.jar",
+            "MD5": "04504a1efab9e4640567b6e7c0e73f38"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "mcjty.theoneprobe:theoneprobe-1.16-3.1.4@jar",
+          "name": "The One Probe",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 327081,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/theoneprobe-1.16-3.1.4.jar",
+            "MD5": "c606d2dee3f61a20ad0bcbb9d8bb4ca1"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "squeek.wailaharvestability:WailaHarvestability-mc1.16.x-forge-1.1.15@jar",
+          "name": "Waila Harvestability",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29421,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/WailaHarvestability-mc1.16.x-forge-1.1.15.jar",
+            "MD5": "5dd65df652593d1e528205f52cdc2775"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "net.darkhax.wawla:WAWLA-1.16.5-8.0.1@jar",
+          "name": "WAWLA",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31378,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/WAWLA-1.16.5-8.0.1.jar",
+            "MD5": "5547345e4e31b70dd1f7f69424da736c"
+          },
+          "required": {
+            "value": true
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin-forge-mc1.16.x-2.2.0.jar",
+          "name": "Apple Skin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46203,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/torohealth-1.16.4-forge-4.jar",
+            "MD5": "c5ded15dfa4728d3901885ccf5937f38"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.darkhax.bookshelf:Bookshelf-Forge-1.16.5-10.3.29@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 315420,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/forgemod_VoxelMap-1.10.12_for_1.16.5.jar",
+            "MD5": "9de4cb4556d2f19aa4c37ae3a3345449"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.mamiyaotaru.voxelmap:forgemod_VoxelMap-1.10.12_for_1.16.5@jar",
+          "name": "VoxelMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 827220,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/forgemod_VoxelMap-1.10.12_for_1.16.5.jar",
+            "MD5": "1b507d537838539a040e87e00acf92ff"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dlovin.inventoryhud:InventoryHud_[1.16.2-1.16.5].forge-3.4.1@jar",
+          "name": "Inventory HUD+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 197654,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar",
+            "MD5": "4fac0e508bc43ccd638fe2550a182cc3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei.JustEnoughItems:jei-1.16.5-7.7.1.122@jar",
+          "name": "Just Enough Items (JEI)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 814235,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.122.jar",
+            "MD5": "04504a1efab9e4640567b6e7c0e73f38"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.jmt.mcmt.MCMT:jmt_mcmt-1.16.5-0.22.87@jar",
+          "name": "MCMT",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178052,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/jmt_mcmt-1.16.5-0.22.87.jar",
+            "MD5": "7b714f318df4c0935bb0c42909e5338b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "slimeknights.tconstruct.TConstruct:TConstruct-1.16.5-3.2.1.296@jar",
+          "name": "Tinkers Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12123466,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/TConstruct-1.16.5-3.2.1.296.jar",
+            "MD5": "a1702ecfd7faea87051fc1302d54851b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.torocraft.torohealth:citadel-1.8.1-1.16.5@jar",
+          "name": "ToroHealth Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96418,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/citadel-1.8.1-1.16.5.jar",
+            "MD5": "D2235DC66683C56B99929D7ED0992A52"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.hexomod.worldeditcuife3:worldedit-mod-7.2.5-dist@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           },
           "required": {
             "value": false

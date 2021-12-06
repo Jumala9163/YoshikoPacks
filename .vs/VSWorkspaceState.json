@@ -1,15 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\repo",
-    "\\repo\\lib",
-    "\\repo\\lib\\net",
-    "\\repo\\lib\\net\\minecraftforge",
-    "\\repo\\lib\\net\\minecraftforge\\forge",
-    "\\repo\\versions",
-    "\\servers"
+    ""
   ],
   "PreviewInSolutionExplorer": false
 }
