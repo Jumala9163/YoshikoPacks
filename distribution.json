@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -625,13 +625,13 @@
       "name": "ガリバーMod(Minecraft 1.16.5)",
       "description": "ガリバーModで遊べる構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_6-1.16.5/pack.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "ガリバーMod",
         "largeImageText": "ガリバーMod",
-        "largeImageKey": "pack_tanpa1"
+        "largeImageKey": "pack_gulliver"
       },
       "mainServer": false,
       "autoconnect": false,
