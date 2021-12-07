@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.1.7",
+      "version": "1.1.8",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -892,19 +892,6 @@
             "size": 541088,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/magnesium-1.5.jar",
             "MD5": "E399EC4581DF33A5CB7A0D6A0450A08B"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "optifine:OptiFine_1.16.5_HD_U_G8_MOD@jar",
-          "name": "Optifine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5520538,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8_MOD.jar",
-            "MD5": "F00EB99B4DAF920ADA2E3B765E6EBE9A"
           },
           "required": {
             "value": false
