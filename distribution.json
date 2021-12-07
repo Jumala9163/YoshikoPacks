@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.1.8",
+      "version": "1.1.9",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -727,6 +727,19 @@
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.19/forge-1.16.5-36.2.19-installer.jar"
           },
           "subModules": []
+        },
+        {
+          "id": "net.torocraft.torohealth:citadel-1.8.1-1.16.5@jar",
+          "name": "ToroHealth Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96418,
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/required/citadel-1.8.1-1.16.5.jar",
+            "MD5": "D2235DC66683C56B99929D7ED0992A52"
+          },
+          "required": {
+            "value": true
+          }
         },
         {
           "id": "com.blamejared.crafttweaker:CraftTweaker-1.16.5-7.1.2.471@jar",
@@ -892,19 +905,6 @@
             "size": 541088,
             "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/magnesium-1.5.jar",
             "MD5": "E399EC4581DF33A5CB7A0D6A0450A08B"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.torocraft.torohealth:citadel-1.8.1-1.16.5@jar",
-          "name": "ToroHealth Damage Indicators",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 96418,
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/forgemods/optionalon/citadel-1.8.1-1.16.5.jar",
-            "MD5": "D2235DC66683C56B99929D7ED0992A52"
           },
           "required": {
             "value": false
