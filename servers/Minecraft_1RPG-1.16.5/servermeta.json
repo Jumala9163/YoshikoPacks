@@ -1,7 +1,7 @@
 {
   "$schema": "file:///${ROOT}/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "name": "Yoshiko-chan-100k-Subs-Network",
     "description": "Yoshiko-chan-100k-Subs-Network用の構成ギリ。",
     "address": "play.yoshiko-chan.fun",
@@ -14,7 +14,7 @@
     "autoconnect": false
   },
   "forge": {
-    "version": "36.2.20"
+    "version": "36.2.23"
   },
   "untrackedFiles": []
 }

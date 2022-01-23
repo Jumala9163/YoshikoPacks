@@ -14,7 +14,7 @@
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_5-1.12.2/pack.png",
       "version": "1.0.0",
       "address": "",
-      "minecraftVersion": "1.12.2",
+      "minecraftVersion": "1.12.3",
       "discord": {
         "shortId": "バニラ1.12.2",
         "largeImageText": "バニラ1.12.2",
@@ -269,7 +269,7 @@
       "name": "バニラ1.15.2 (Minecraft 1.15.2)",
       "description": "1.15.2 + VideoPlayerが導入された構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_4-1.15.2/pack.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "",
       "minecraftVersion": "1.15.2",
       "discord": {
@@ -281,13 +281,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.15.2-31.2.56:installer",
+          "id": "net.minecraftforge:forge:1.15.2-31.2.57:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 6615521,
-            "MD5": "ED90DF58739D1CB26B61D7ABB338E25C",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.15.2-31.2.56/forge-1.15.2-31.2.56-installer.jar"
+            "size": 6619925,
+            "MD5": "A651A604D6A9D31E997EC60E91C33826",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.15.2-31.2.57/forge-1.15.2-31.2.57-installer.jar"
           },
           "subModules": []
         },
@@ -324,7 +324,7 @@
       "name": "バニラ1.16.5 (Minecraft 1.16.5)",
       "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/pack.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -336,13 +336,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.20:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7390346,
-            "MD5": "6298276CC9396BB1B2D8526B1EE0E8C5",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.20-installer.jar"
+            "size":7391429,
+            "MD5": "8BD6AA68B6337F8495DDDF32A9D40238",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-installer.jar"
           },
           "subModules": []
         },
@@ -418,7 +418,7 @@
       "name": "Minecraft Fabric 1.16.5",
       "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_3Fabric-1.16.5/pack.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -430,13 +430,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.20:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7390346,
-            "MD5": "6298276CC9396BB1B2D8526B1EE0E8C5",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.20-installer.jar"
+            "size":7391429,
+            "MD5": "8BD6AA68B6337F8495DDDF32A9D40238",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-installer.jar"
           },
           "subModules": []
         },
@@ -531,7 +531,7 @@
       "name": "Yoshiko-RPG (Minecraft1.16.5)",
       "description": "Yoshiko-chan-100k-Subs-Network用の構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_1RPG-1.16.5/pack.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "play.yoshiko-chan.fun",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -543,13 +543,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.20:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7390346,
-            "MD5": "6298276CC9396BB1B2D8526B1EE0E8C5",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.20-installer.jar"
+            "size":7391429,
+            "MD5": "8BD6AA68B6337F8495DDDF32A9D40238",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-installer.jar"
           },
           "subModules": []
         },
@@ -625,7 +625,7 @@
       "name": "ガリバーMod(Minecraft 1.16.5)",
       "description": "ガリバーModで遊べる構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_6-1.16.5/pack.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -637,13 +637,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.20:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7390346,
-            "MD5": "6298276CC9396BB1B2D8526B1EE0E8C5",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.20-installer.jar"
+            "size":7391429,
+            "MD5": "8BD6AA68B6337F8495DDDF32A9D40238",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-installer.jar"
           },
           "subModules": []
         },
@@ -706,7 +706,7 @@
       "name": "ドラゴンクラフト(Minecraft 1.16.5)",
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
-      "version": "1.1.10",
+      "version": "1.1.2",
       "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -718,13 +718,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.20:installer",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.23:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7390346,
-            "MD5": "6298276CC9396BB1B2D8526B1EE0E8C5",
-            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.0/forge-1.16.5-36.2.20-installer.jar"
+            "size":7391429,
+            "MD5": "8BD6AA68B6337F8495DDDF32A9D40238",
+            "url": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-installer.jar"
           },
           "subModules": []
         },
