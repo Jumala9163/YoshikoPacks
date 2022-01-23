@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\repo",
-    "\\repo\\lib",
-    "\\repo\\lib\\net",
-    "\\repo\\lib\\net\\minecraftforge",
-    "\\repo\\lib\\net\\minecraftforge\\forge",
-    "\\repo\\versions",
-    "\\servers"
+    "\\servers",
+    "\\servers\\Minecraft_7-1.16.5"
   ],
-  "SelectedNode": "\\distribution.json",
+  "SelectedNode": "\\servers\\Minecraft_7-1.16.5\\servermeta.json",
   "PreviewInSolutionExplorer": false
 }
