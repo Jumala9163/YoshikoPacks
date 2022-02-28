@@ -236,24 +236,24 @@
             }
         },
         {
-            "name": "org.apache.logging.log4j:log4j-api:2.17.1",
+            "name": "org.apache.logging.log4j:log4j-api:2.17.2",
             "downloads": {
               "artifact": {
-                "path": "org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar",
-                "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar",
-                "sha1": "D771AF8E336E372FB5399C99EDABE0919AEAF5B2",
-                "size": 301872
+                "path": "org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar",
+                "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar",
+                "sha1": "00AE567DABF40EEC11027B8BE59EBDCA65A5AD06",
+                "size": 302511
               }
             }
         },
         {
-            "name": "org.apache.logging.log4j:log4j-core:2.17.1",
+            "name": "org.apache.logging.log4j:log4j-core:2.17.2",
             "downloads": {
               "artifact": {
-                "path": "org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar",
-                "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar",
-                "sha1": "779F60F3844DADC3EF597976FCB1E5127B1F343D",
-                "size": 1790452
+                "path": "org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar",
+                "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar",
+                "sha1": "70BFABC6EF2D35188EE4615BEBC1416080C6F76F",
+                "size": 1811090
               }
             }
         }
