@@ -4,7 +4,7 @@
     "version": "1.0.5",
     "name": "Minecraft Fabric 1.16.5",
     "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ。",
-    "address": "play.kome-lab.net",
+    "address": "play.kome-lab.net:25565",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Fabric1.16.5",

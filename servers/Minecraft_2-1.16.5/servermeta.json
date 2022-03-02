@@ -4,7 +4,7 @@
     "version": "1.0.4",
     "name": "バニラ1.16.5 (Minecraft 1.16.5)",
     "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
-    "address": "play.kome-lab.net",
+    "address": "play.kome-lab.net:25565",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Minecraft1.16.5",

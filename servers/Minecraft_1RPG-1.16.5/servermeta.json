@@ -4,7 +4,7 @@
     "version": "1.0.5",
     "name": "Yoshiko-chan-100k-Subs-Network",
     "description": "よしこRPG1.16.5用の構成ギリ。",
-    "address": "play.kome-lab.net",
+    "address": "play.kome-lab.net:25565",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "YoshikoRPG",

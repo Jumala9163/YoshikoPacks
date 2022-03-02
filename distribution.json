@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "rss": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/news/news.rss",
   "discord": {
     "clientId": "892636912781758485",
@@ -13,7 +13,7 @@
       "description": "1.12.2 + Modが導入された構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_5-1.12.2/pack.png",
       "version": "1.0.3",
-      "address": "play.kome-lab.net",
+      "address": "play.kome-lab.net:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "バニラ1.12.2",
@@ -270,7 +270,7 @@
       "description": "1.15.2 + VideoPlayerが導入された構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_4-1.15.2/pack.png",
       "version": "1.0.3",
-      "address": "play.kome-lab.net",
+      "address": "play.kome-lab.net:25565",
       "minecraftVersion": "1.15.2",
       "discord": {
         "shortId": "バニラ1.15.2",
@@ -325,7 +325,7 @@
       "description": "Forge 1.16.5 + VideoPlayerMod + Modが導入されている構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_2-1.16.5/pack.png",
       "version": "1.0.4",
-      "address": "play.kome-lab.net",
+      "address": "play.kome-lab.net:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "バニラ1.16.5",
@@ -419,7 +419,7 @@
       "description": "FabricModが使える構成ギリ。使い慣れてる人推奨ギリ。※ForgeModは使えないギリ",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_3Fabric-1.16.5/pack.png",
       "version": "1.0.5",
-      "address": "play.kome-lab.net",
+      "address": "play.kome-lab.net:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Fabric1.16.5",
@@ -626,7 +626,7 @@
       "description": "ガリバーModで遊べる構成ギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_6-1.16.5/pack.png",
       "version": "1.0.4",
-      "address": "play.kome-lab.net",
+      "address": "play.kome-lab.net:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "ガリバーMod",
@@ -707,7 +707,7 @@
       "description": "ドラゴンModで遊べる構成ギリ。便利なModも入ってるギリ。",
       "icon": "https://raw.githubusercontent.com/Jumala9163/YoshikoPacks/deploy/servers/Minecraft_7-1.16.5/pack.png",
       "version": "1.1.3",
-      "address": "play.kome-lab.net",
+      "address": "play.kome-lab.net:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "dora_kura",
