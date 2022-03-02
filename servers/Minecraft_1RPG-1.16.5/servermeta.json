@@ -1,10 +1,10 @@
 {
   "$schema": "file:///${ROOT}/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "name": "Yoshiko-chan-100k-Subs-Network",
-    "description": "Yoshiko-chan-100k-Subs-Network用の構成ギリ。",
-    "address": "play.yoshiko-chan.fun",
+    "description": "よしこRPG1.16.5用の構成ギリ。",
+    "address": "play.kome-lab.net",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "YoshikoRPG",

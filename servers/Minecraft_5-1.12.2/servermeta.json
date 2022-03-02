@@ -1,10 +1,10 @@
 {
   "$schema": "file:///${ROOT}/softdata/git/YoshikoPacks/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "バニラ1.12.2 (Minecraft 1.12.2)",
     "description": "1.12.2 + Modが導入された構成ギリ。",
-    "address": "",
+    "address": "play.kome-lab.net",
     "discord": {
       "shortId": "Minecraft",
       "largeImageText": "Minecraft1.12.2",
